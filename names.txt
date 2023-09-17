@@ -1,1 +1,4 @@
-
+about me 
+Name : Soumyajyoti Mohanta
+Roll no. : 2301AI23
+Department : CSE (AIDS) 
