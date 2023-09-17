@@ -1,1 +1,4 @@
-
+About me
+Name : G Srichetan Reddy
+Roll no. : 2301CS54
+Department : CSE
