@@ -1,1 +1,4 @@
-
+about me
+name : g praneeth reddy
+roll no:2301cs36
+department:cse
