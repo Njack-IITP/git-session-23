@@ -1,6 +1,4 @@
-//NJACK
-class NJACK{
-public static void main(String args[]){
-System.out.println("NJACK");
-}
-}
+about me 
+Name : Soumyajyoti Mohanta
+Roll no. : 2301AI23
+Department : CSE (AIDS) 
