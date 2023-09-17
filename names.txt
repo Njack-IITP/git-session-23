@@ -1,1 +1,6 @@
-
+//NJACK
+class NJACK{
+public static void main(String args[]){
+System.out.println("NJACK");
+}
+}
