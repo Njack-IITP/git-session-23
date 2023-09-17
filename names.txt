@@ -1,1 +1,4 @@
-
+I am Srikant Sahoo from CS (Dual Degree). I like playing games and passionate about E-Sports. Sometimes I also play table tennis. I am also a cinephile. I am intrested in programming as I like solving problems by creating efficient and pragmatic solutions. I have tried competitive programming a bit and I want to dwell furthur in this domain. Currently I only know python and basics of C++ and I plan to learn C++, flutter and react for now.
+Name: Srikant Sahoo
+Roll no. : 2302CS07
+Department : CS (Dual Degree)
