@@ -1,1 +1,5 @@
+About me
 
+Name: Tripti Jain
+Roll no.: 2301CS60
+Department: Computer Science
