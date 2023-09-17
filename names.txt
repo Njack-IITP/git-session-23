@@ -1,1 +1,4 @@
-
+About me
+Name = Amal biju
+Role number = 2302PC02
+Department = Electrical 
