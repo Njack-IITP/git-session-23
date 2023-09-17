@@ -1,1 +1,4 @@
-
+About me
+Name : Pragya Mahajan
+Roll no. : 2302CS05
+Department : Computer Science and Engineering
