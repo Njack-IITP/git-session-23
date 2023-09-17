@@ -1,1 +1,4 @@
-
+about me
+name : sasmit shashwat
+roll no :2301ai20
+department: CSE( AI and Data science)
