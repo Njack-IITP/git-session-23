@@ -14,4 +14,8 @@ Department: Civil Engineering
 - The supportive and academically enriching environment at IIT Patna has provided me with a strong foundation to pursue my coding interests.
 
 Ankit Bhagat
+<<<<<<< HEAD
 West Bengal, Kolkata
+=======
+Kolkata
+>>>>>>> b13405e66ec087fdc1b2c299a632a12ce21c789e
