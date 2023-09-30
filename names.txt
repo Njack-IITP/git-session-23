@@ -1,1 +1,21 @@
+About Me:-
 
+Name: Ankit Bhagat
+Roll No.: 2301ce03
+Department: Civil Engineering
+
+- I am a student at the esteemed Indian Institute of Technology (IIT) Patna.
+- Currently, I am pursuing a BTech degree in Civil Engineering at IIT Patna.
+- Despite my academic focus on Civil Engineering, my true passion lies in coding.
+- I have honed my skills in various programming languages, including Java, Python, C, C++, and C#.
+- Presently, I am deeply engrossed in learning Web Development.
+- My aspiration is to become a "Full Stack Web Developer" by the end of 2023.
+- In addition to web development, I am also exploring Unity Engine, although I haven't discovered a strong interest in Game Development yet.
+- The supportive and academically enriching environment at IIT Patna has provided me with a strong foundation to pursue my coding interests.
+
+Ankit Bhagat
+<<<<<<< HEAD
+West Bengal, Kolkata
+=======
+Kolkata
+>>>>>>> b13405e66ec087fdc1b2c299a632a12ce21c789e
