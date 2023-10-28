@@ -1,0 +1,68 @@
+
+#main{
+    height:500px;
+    width:400px;
+    padding-left: 40px;
+    padding-top: 40px;
+    background-color: aliceblue;
+}
+#contactsales{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(41, 92, 92);
+}
+#info{
+    margin-top: 20px;
+    text-align: center;
+}
+.box{
+    height:30px;
+    width:180px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+    background-color: azure;
+}
+#box2{
+    margin-left: 10px;
+}
+#box3{
+    width:382px;
+}
+.name{
+    margin-top: 10px;
+}
+#name1{
+    display: inline-block;
+}
+#name2{
+    display: inline-block;
+    margin-left: 129px;
+}
+#name4{
+    margin-bottom: 5px;
+}
+#box4{
+    width:382px;
+    background-color:azure;
+}
+.button{
+    background-color: aqua;
+    border:2px solid black;
+    border-radius:10px;
+    cursor:pointer;
+    margin-top: 20px;
+    margin-left:160px;
+    height:30px;
+    width:80px;
+}
+.button:hover{
+    box-shadow:2px 2px 0 0 gray;
+    height:35px;
+    width:90px;
+    margin-top: 17.5px;
+    margin-left: 155px;
+
+}
