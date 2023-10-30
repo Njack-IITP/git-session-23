@@ -1,1 +1,4 @@
-
+about me 
+name:sarthak kushwah
+roll no.:2301mc26
+department:mathematics
