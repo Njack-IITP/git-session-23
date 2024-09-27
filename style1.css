@@ -1,0 +1,102 @@
+body{
+    background-color:#edf2fb;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#form{
+    margin-top: 100px;
+    margin-left: 575px;
+    padding-left: 100px;
+    border:5px solid black;
+    border-radius: 20px;
+    height:500px;
+    width:400px;
+    opacity: 0.9;
+    
+
+}
+#form:hover{
+    box-shadow:10px 10px 0 0 gray;
+
+}
+
+.name{
+    display:inline-block;
+    color:deepskyblue;
+}
+.name:hover{
+    color:crimson;
+}
+::placeholder{
+    color:lime;
+    text-align: center;
+}
+
+
+.box{
+    border:2px solid black ;
+    border-radius: 5px;
+    height:20px;
+    width:165px;
+    text-align: center;
+}
+.box:hover{
+    height:25px;
+    width:165px;
+}
+#box1{
+    margin-left:100px;
+}
+#box2{
+    margin-left:127px;
+}
+#box3{
+    margin-left:78px;
+    color:lime;
+    text-align: center;
+}
+#box4{
+    margin-left:97px;
+}
+#box5{
+    margin-left:126px;
+}
+#box6{
+    margin-left:102px;
+}
+#gen{
+    margin-left: 110px;
+    display:inline;
+    color:lime;
+}
+#signup{
+    margin-top:30px ;
+    margin-left:120px ;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    font-size: 20px;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button{
+    background-color: aqua;
+    border:2px solid black;
+    border-radius:10px;
+    cursor:pointer;
+    margin-top: 20px;
+    margin-left:125px;
+    height:30px;
+    width:80px;
+}
+.button:hover{
+    box-shadow:2px 2px 0 0 gray;
+    height:35px;
+    width:90px;
+    margin-top: 17.5px;
+    margin-left: 120px;
+
+}

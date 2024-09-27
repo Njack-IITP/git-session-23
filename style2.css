@@ -1,0 +1,30 @@
+body{
+    background-color: #48CAE4;
+    background-size: cover;
+}
+
+#move{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    font-size: 30px;
+    margin-top:40px ;
+}
+iframe{
+    margin-left: 500px;
+    width:500px;
+    height:600px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+#contactus{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left:675px;
+    margin-top: 2px;
+    display: inline-block;
+    background-color: azure;
+    color:dodgerblue;
+    border-radius: 5px;
+}
+
